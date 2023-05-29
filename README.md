@@ -2,6 +2,7 @@
 
 <b>Bacharel em Sistemas de Informação</b> pela UFAL e <b>Técnico em Radiologia</b> pela Residência Educação, atualmente trabalhando como Técnico de Radiologia no Hospital de Emergência do Agreste em Arapiraca - AL, tentando voltar para a área de Desenvolvimento, ou melhor, iniciar nela.
 
+<a>https://linktr.ee/pulquerioe</a>
 <!--
 **xpulquerio/xpulquerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
