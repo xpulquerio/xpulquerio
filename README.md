@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>Bacharel em Sistemas de Informação</b> pela UFAL, tentando voltar para a área de Desenvolvimento, ou melhor, iniciar nela.
+<b>Bacharel em Sistemas de Informação</b> pela UFAL, tentando voltar para a área de desenvolvimento, ou melhor, iniciar nela.
 
 <a>https://linktr.ee/pulquerioe</a>
 <!--
