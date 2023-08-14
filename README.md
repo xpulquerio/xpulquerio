@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Ewerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpulquerio&show_icons=true&theme=transparent)
-
+| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xpulquerio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)| ![Ewerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpulquerio&show_icons=true&theme=transparent) |
+|-----------------|------------------|
