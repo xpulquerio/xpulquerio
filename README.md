@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>Bacharel em Sistemas de Informação</b> pela UFAL, tentando voltar para a área de desenvolvimento, ou melhor, iniciar nela.
+<b>Bacharel em Sistemas de Informação</b> pela UFAL - Iniciando na área de desenvolvimento
 
 <a>https://linktr.ee/pulquerioe</a>
 <!--
@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ewerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpulquerio&show_icons=true&theme=transparent)
+
