@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>Bacharel em Sistemas de Informação</b> pela UFAL - Iniciando na área de desenvolvimento
+<b>Bacharel em Sistemas de Informação</b> pela Universidade Federal de Alagoas - UFAL. Atualmente venho estudando Python, SQL e um pouco de PowerBI, pretendo seguir a área de Back-End e/ou Ciência de Dados.
 
 <a>https://linktr.ee/pulquerioe</a>
 <!--
@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
